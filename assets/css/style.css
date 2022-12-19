@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+section {
+    background-color: rgb(203, 167, 124);
+    background-image: url("../img/Pic_800x600.jpeg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+}
+
+nav {
+    background-color: rgba(108, 106, 99, 0.745);
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+nav a:first-of-type {
+    padding-left: 650px;
+} 
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+
